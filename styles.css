@@ -1,0 +1,21 @@
+.bg-add-task {
+	background-color: #f4f4f4;
+}
+
+.bg-upcoming-tasks {
+	background-color: #a8a8a8;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.remove-task {
+    color: blue;
+    font-weight: 800;
+}
+
+.remove-task:hover {
+	cursor: pointer;
+}
